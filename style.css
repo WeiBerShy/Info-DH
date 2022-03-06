@@ -1,0 +1,80 @@
+*{
+    box-sizing: border-box;
+}
+body {
+    margin: 100px;
+    
+}
+header{
+    height: 295px;
+    padding-left: 123px;
+}
+#nombre{
+    font-size: 120%;
+    margin-left: 150px;
+    margin-top: 5px;
+    width: 400px;
+    float: left;
+}
+#datosP{
+    height: 400px;
+    width: 450px;
+    padding: 10px;
+    float: left;
+}
+main{
+    width: 1267px;
+    height: 1500px;
+}
+#semimain{
+    font-size: 150%;
+    width: 800px;
+    padding: 6px;
+    float: left;
+}
+.sizeboxB{
+    width: 780px;
+}
+#duo{
+    border-top: black solid 1px;
+    width: 780px;
+}
+#duoL{
+    float: left;
+    width: 387px;
+    border-right: black solid 1px;
+}
+#duoR{
+    padding-left: 20px;
+    width: 387px;
+    float: left;
+}
+h1,h3{
+    color: #66A2CD;
+}
+h2{
+    font-style: oblique;
+}
+span{
+    color: #66A2CD;
+    font-size: 20px;
+}
+#lista-sin-puntos{
+    list-style: none;
+}
+#num{
+    font-size: 15px;
+    color: black;
+}
+.img{
+    height: 280px;
+    width: 190px;
+    margin: 5px;
+    float: left;
+}
+.tamLetras{
+    font-size: 25px;
+}
+.negrita{
+    font-weight: bold;
+}
