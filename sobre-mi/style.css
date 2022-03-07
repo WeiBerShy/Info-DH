@@ -1,0 +1,100 @@
+*{
+    box-sizing: border-box;
+}
+body {
+    margin-left: 225px;
+    width: 950px;
+}
+#general{
+    background-color: #E4EFF4;
+    width: 950px;
+    height: 700px
+}
+header{
+    height: 260px;
+    width: 950px;
+    padding-left: 94px;
+    padding-top: 25px;
+    background-color: #E4EFF4;
+    border-bottom: 1px rgba(1,1,1,0.4) solid;
+}
+.img{
+    
+    max-height: 209px;
+    max-width: 150px;
+    float: left;
+    border: 2px black solid;
+    
+}
+#img{
+    max-height: 205px;
+    max-width: 150px;
+}
+#nombre{
+    background-color: #E4EFF4;
+    font-size: 90%;
+    margin-left: 100px;
+    width: 400px;
+    float: left;
+}
+.RP{
+    background-color: #E4EFF4;
+    font-size: 30px;
+}
+#datos{
+    background-color: #E4EFF4;
+    padding-left: 50px;
+}
+#CyV{
+    height: 200px;
+    width: 400px;
+    float: left;
+}
+#hob{
+    
+    border-left: 1px rgba(1,1,1,0.4) solid;
+    height: 200px;
+    width: 450px;
+    float: left;
+}
+#LdP{
+    border-top: 1px rgba(1,1,1,0.4) solid;
+    text-align: center;
+    height: 130px;
+    width: 850px;
+    float: left;
+}
+footer{
+    background-color: #66A2CD;
+    line-height: 50px;
+    text-align: center;
+    font-size: 150%;
+    height: 50px;
+    width: 950px;
+    float: left;
+}
+h1{
+    color: #66A2CD;
+}
+.centrado{
+    text-align: center;
+}
+.itali{
+    font-style: italic;
+}
+li,p{
+    font-size: 110%;
+}
+#desc{
+    font-weight: bold;
+    font-size: 130%;
+}
+#logos{
+    
+    margin: 0px;
+    font-size: 100%;
+    
+}
+a{
+    color: black;
+}

@@ -1,52 +1,75 @@
 *{
     box-sizing: border-box;
+    
 }
 body {
-    margin: 100px;
+    margin-left: 225px;
+    width: 110px;
+}
+p{
+    font-size: 110%;
+}
+
+#general{
+    background-color: #E4EFF4;
+    width: 950px;
+    height: 1400px;
     
 }
 header{
-    height: 295px;
-    padding-left: 123px;
+    height: 260px;
+    width: 950px;
+    padding-left: 94px;
+    padding-top: 25px;
+    background-color: #E4EFF4;
+    border-bottom: rgba(1,1,1,0.4) 1px solid;
 }
 #nombre{
-    font-size: 120%;
-    margin-left: 150px;
-    margin-top: 5px;
+   
+    font-size: 90%;
+    margin-left: 100px;
     width: 400px;
     float: left;
 }
 #datosP{
+    font-size: 100%;
     height: 400px;
-    width: 450px;
-    padding: 10px;
+    width: 350px;
+    padding-left: 20px;
+    padding-top: 10px;
     float: left;
+   
 }
 main{
-    width: 1267px;
-    height: 1500px;
+    width: 950px;
+    height: 1150px;
+    
 }
 #semimain{
+    margin-left: 10px;
     font-size: 150%;
-    width: 800px;
+    width: 500px;
     padding: 6px;
     float: left;
+    
 }
 .sizeboxB{
-    width: 780px;
+    width: 500px;
+    font-size: 70%;
 }
 #duo{
-    border-top: black solid 1px;
-    width: 780px;
+    border-top: rgba(1,1,1,0.4)  solid 1px;
+    width: 500px;
+    font-size: 70%;
 }
 #duoL{
     float: left;
-    width: 387px;
-    border-right: black solid 1px;
+    width: 250px;
+    border-right: rgba(1,1,1,0.4) solid 1px;
 }
 #duoR{
     padding-left: 20px;
-    width: 387px;
+    width: 250px;
     float: left;
 }
 h1,h3{
@@ -67,13 +90,18 @@ span{
     color: black;
 }
 .img{
-    height: 280px;
-    width: 190px;
-    margin: 5px;
+    max-height: 209px;
+    max-width: 150px;
     float: left;
+    border: 2px black solid;
+    
+}
+#img{
+    max-height: 205px;
+    max-width: 150px;
 }
 .tamLetras{
-    font-size: 25px;
+    font-size: 20px;
 }
 .negrita{
     font-weight: bold;
